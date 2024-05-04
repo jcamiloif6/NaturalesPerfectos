@@ -1,4 +1,4 @@
-# NaturalesPerfectos
+# Naturales Perfectos
 Repositorio que contiene codigo para encontrar los numeros naturales perfectos en un rango de numeros dado
 
 ## Descripcion
